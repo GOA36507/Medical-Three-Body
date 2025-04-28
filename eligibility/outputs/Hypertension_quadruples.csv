@@ -1,0 +1,7 @@
+Disease,Attribute,Value,Type
+Hypertension,age,≥ 18 years,inclusion
+Hypertension,nyha_class,ii or iii,inclusion
+Hypertension,gfr,≥ 25 ml/min,inclusion
+Hypertension,myocardial_infarction,within 3 months,exclusion
+Hypertension,pulmonary_artery_aneurysm,present,exclusion
+Hypertension,crt,within last 30 days,exclusion

@@ -1,0 +1,12 @@
+{
+  "inclusion": [
+    {"attribute": "age", "value": "≥ 18 years"},
+    {"attribute": "nyha_class", "value": "ii or iii"},
+    {"attribute": "gfr", "value": "≥ 25 ml/min"}
+  ],
+  "exclusion": [
+    {"attribute": "myocardial_infarction", "value": "within 3 months"},
+    {"attribute": "pulmonary_artery_aneurysm", "value": "present"},
+    {"attribute": "crt", "value": "within last 30 days"}
+  ]
+}
